@@ -20,6 +20,6 @@ public class RespServlet extends HttpServlet {
 		resp.setContentType("text/html");
 		//上面的方法可以简写成下面的代码
 		resp.setContentType("text/html;charset=utf-8");
-		//测试服务器是否正常
+		//测试服务器是否正常跟一个
 	}
 }
